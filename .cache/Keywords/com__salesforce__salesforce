@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "3637B899FD79538F6D405036A4AD6F51",
+  "keywordClasses": [
+    {
+      "name": "com.salesforce.salesforce",
+      "keywordMethods": [
+        {
+          "name": "From_date",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

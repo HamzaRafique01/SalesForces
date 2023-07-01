@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Business unit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc219982-df96-4710-b928-0dfbdadc7764</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8f606ca-566f-41f6-a368-ceb54e588d89</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Home Page/Add New Quota Form/Business Unit')</defaultValue>
+      <description></description>
+      <id>e8f606ca-566f-41f6-a368-ceb54e588d89</id>
+      <masked>false</masked>
+      <name>value</name>
+   </variable>
+</TestCaseEntity>

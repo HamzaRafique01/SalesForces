@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Previous Month</name>
+   <tag></tag>
+   <elementGuidId>8338a357-f844-4538-b985-497e3faab474</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[150]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>lightning-button-icon > button.slds-button.slds-button_icon.slds-button_icon-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4b82d4c4-64ef-48eb-9ac4-e6431817cc37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-button slds-button_icon slds-button_icon-container</value>
+      <webElementGuid>b03edaeb-633d-46f0-9302-336eb237d9e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Previous Month</value>
+      <webElementGuid>81d42d5a-0066-4a45-8afa-f332ad84d0da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5c1a4d6b-56be-47f5-a588-51c95fd29ac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>part</name>
+      <type>Main</type>
+      <value>button button-icon</value>
+      <webElementGuid>b92dfca1-d643-439d-910b-52561e769a23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Previous Month</value>
+      <webElementGuid>9bcf6134-e711-4529-82e2-453b88f72d95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brandBand_2&quot;)/div[@class=&quot;slds-template__container&quot;]/div[@class=&quot;center oneCenterStage lafSinglePaneWindowManager&quot;]/div[@class=&quot;windowViewMode-normal oneContent active lafPageHost&quot;]/siqic-qr-new-cycle-creation[1]/div[@class=&quot;main-div main&quot;]/div[@class=&quot;form-size form-1&quot;]/c-qr-h-o-details[1]/div[@class=&quot;de&quot;]/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-size_1-of-2 padding-5&quot;]/div[@class=&quot;slds-grid&quot;]/div[@class=&quot;slds-col slds-size_1-of-2&quot;]/lightning-input[@class=&quot;date slds-form-element&quot;]/lightning-datepicker[1]/div[@class=&quot;slds-dropdown-trigger slds-dropdown-trigger_click slds-size_1-of-1 slds-is-open&quot;]/div[@class=&quot;slds-form-element__control slds-input-has-icon slds-input-has-icon_right&quot;]/lightning-calendar[1]/div[@class=&quot;slds-datepicker slds-dropdown slds-dropdown_left&quot;]/lightning-focus-trap[1]/slot[1]/div[@class=&quot;slds-datepicker__filter slds-grid&quot;]/div[@class=&quot;slds-datepicker__filter_month slds-grid slds-grid_align-spread slds-grow&quot;]/div[@class=&quot;slds-align-middle&quot;]/lightning-button-icon[1]/button[@class=&quot;slds-button slds-button_icon slds-button_icon-container&quot;]</value>
+      <webElementGuid>a236f3a5-88d6-4f11-bdb0-5a03380efda1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[150]</value>
+      <webElementGuid>abc73e29-856f-4819-9d00-84374ff6f9d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brandBand_2']/div/div/div[2]/siqic-qr-new-cycle-creation/div/div[3]/c-qr-h-o-details/div/div[3]/div[2]/div/div[2]/lightning-input/lightning-datepicker/div/div/lightning-calendar/div/lightning-focus-trap/slot/div/div/div/lightning-button-icon/button</value>
+      <webElementGuid>b2de80a5-8c2d-40ba-beed-5f85c5c6d784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a date for Date'])[1]/following::button[1]</value>
+      <webElementGuid>89ab9146-61c0-4865-9c92-ffaa4fb8c8d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[2]/following::button[2]</value>
+      <webElementGuid>896d95a3-facc-4a88-ac38-6913e7b4d990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='July'])[1]/preceding::button[1]</value>
+      <webElementGuid>72bb6497-ce58-48e6-a982-bc9d1d0c6a02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/lightning-button-icon/button</value>
+      <webElementGuid>2ac34855-1aaa-4c54-a767-37e97065a6b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Previous Month' and @type = 'button' and (text() = 'Previous Month' or . = 'Previous Month')]</value>
+      <webElementGuid>2e1c5b17-fc84-454b-b458-10e2595cd25c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

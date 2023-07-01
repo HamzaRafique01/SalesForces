@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Team Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0691093b-3ac5-4616-9c6b-e0766f24d45a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84fc3524-9f7a-4b69-be3e-74c53865fca8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Home Page/Add New Quota Form/Team')</defaultValue>
+      <description></description>
+      <id>84fc3524-9f7a-4b69-be3e-74c53865fca8</id>
+      <masked>false</masked>
+      <name>team</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Sub Team Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeb709b6-094f-494c-9e95-c82d22c5e83a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa80106a-3e7a-4b8f-b1af-9b9a4c49bcda</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Home Page/Add New Quota Form/Sub Team')</defaultValue>
+      <description></description>
+      <id>fa80106a-3e7a-4b8f-b1af-9b9a4c49bcda</id>
+      <masked>false</masked>
+      <name>subteam</name>
+   </variable>
+</TestCaseEntity>

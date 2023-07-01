@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>select Time period</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb33985b-016f-45ee-957e-b6f27fd9ca67</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>88b004d0-a66f-4b7a-b95a-5e983d986388</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Home Page/Add New Quota Form/time period')</defaultValue>
+      <description></description>
+      <id>88b004d0-a66f-4b7a-b95a-5e983d986388</id>
+      <masked>false</masked>
+      <name>time</name>
+   </variable>
+</TestCaseEntity>

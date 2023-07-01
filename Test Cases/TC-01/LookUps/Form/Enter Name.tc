@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Enter Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82d2efdf-032b-4951-9770-651bba534f2d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1411b95f-701b-41b8-b7ab-38cb8e1d5c3c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Alpha Company'</defaultValue>
+      <description></description>
+      <id>1411b95f-701b-41b8-b7ab-38cb8e1d5c3c</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+</TestCaseEntity>

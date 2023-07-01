@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Sanity,Chrome 114.0.0.0,,,2023-06-26 19:25:23,2023-06-26 19:25:32,8.766s,ERROR
+,,,,,,,
+Test Cases/TC_01 Sales_Force Login,Chrome 114.0.0.0,,,2023-06-26 19:25:24,2023-06-26 19:25:31,7.787s,PASSED
+"openBrowser(""https://login.salesforce.com/"")",Chrome 114.0.0.0,,,2023-06-26 19:25:24,2023-06-26 19:25:29,5.003s,PASSED
+"sendKeys(username_field, user_name)",Chrome 114.0.0.0,,,2023-06-26 19:25:29,2023-06-26 19:25:31,1.495s,PASSED
+"sendKeys(pass_field, password)",Chrome 114.0.0.0,,,2023-06-26 19:25:31,2023-06-26 19:25:31,0.412s,PASSED
+click(login_btn),Chrome 114.0.0.0,,,2023-06-26 19:25:31,2023-06-26 19:25:31,0.414s,PASSED
+,,,,,,,
+Test Cases/TC-02 Quota Refinement,Chrome 114.0.0.0,,,2023-06-26 19:25:31,2023-06-26 19:25:32,0.724s,ERROR
+navigateToUrl(java.net.URL),Chrome 114.0.0.0,,,2023-06-26 19:25:32,2023-06-26 19:25:32,0.118s,ERROR

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Main Test Case Add New Quota</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c24cebc-24e9-4c4a-97e2-2536216d7f30</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f0963af-15db-431e-ad21-049fb5dd0ef0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5a0fc27-84b2-4356-b3a3-6e75748ad09b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Home Page/Quota Refinement')</defaultValue>
+      <description></description>
+      <id>2f0963af-15db-431e-ad21-049fb5dd0ef0</id>
+      <masked>false</masked>
+      <name>abc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Home Page/Quota Refinement in More list')</defaultValue>
+      <description></description>
+      <id>a5a0fc27-84b2-4356-b3a3-6e75748ad09b</id>
+      <masked>false</masked>
+      <name>more</name>
+   </variable>
+</TestCaseEntity>

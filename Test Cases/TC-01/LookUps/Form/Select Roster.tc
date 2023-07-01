@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Roster</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>088785a7-fa68-480d-afaa-fb23e1e5db38</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fc4b872-d48c-46db-9cda-95c324a68421</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Roster_4_6Users(Week 51 2019)'</defaultValue>
+      <description></description>
+      <id>4fc4b872-d48c-46db-9cda-95c324a68421</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+</TestCaseEntity>

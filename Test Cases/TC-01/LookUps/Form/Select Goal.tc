@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Select Goal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38e4f564-b472-4139-9f05-4659c2493480</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>670d8e92-d94c-452d-aca4-17d988b153af</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'6013HAC_Valid_Goals_RU'</defaultValue>
+      <description></description>
+      <id>670d8e92-d94c-452d-aca4-17d988b153af</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+</TestCaseEntity>

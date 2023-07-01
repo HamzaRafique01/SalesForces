@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sub Team</name>
+   <tag></tag>
+   <elementGuidId>7b3fb37b-22e6-433b-895a-6c7cab42fc55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name=&quot;subTeam&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#combobox-button-1432 > span.slds-truncate</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>295748aa-19bd-43b7-b454-788c7cbd352b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slds-truncate</value>
+      <webElementGuid>1cbbb997-5bab-437d-8277-4540c7fdf739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Sub Team</value>
+      <webElementGuid>cfcbc678-fc97-4609-ae72-0f9326471022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;combobox-button-1432&quot;)/span[@class=&quot;slds-truncate&quot;]</value>
+      <webElementGuid>07c25895-c701-4009-a1cf-243582908b65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='combobox-button-1432']/span</value>
+      <webElementGuid>3f55c70e-8135-49e8-84c5-db4e594a40cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Team'])[2]/following::span[1]</value>
+      <webElementGuid>95b93709-d2c2-4034-a033-f8980e9e5cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub Team'])[1]/following::span[1]</value>
+      <webElementGuid>2dd916d2-bc30-4db6-8640-a4918d607d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Omega'])[1]/preceding::span[3]</value>
+      <webElementGuid>ca22f718-23fa-42b6-84c4-edbd9b69785f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::span[5]</value>
+      <webElementGuid>ef21b132-062a-46e5-9ef2-5e3d9b422f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select Sub Team']/parent::*</value>
+      <webElementGuid>9e3e5cb6-01d1-4533-a566-87e9e2e27f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/lightning-combobox/div/lightning-base-combobox/div/div/button/span</value>
+      <webElementGuid>563a0c01-f1dd-48b7-b460-0233ba1d3a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select Sub Team' or . = 'Select Sub Team')]</value>
+      <webElementGuid>3026d088-2368-4d55-aee9-3930199f3ec1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
